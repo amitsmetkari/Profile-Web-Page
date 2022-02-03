@@ -1,0 +1,130 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+body {
+    text-align: center;
+    font-family: ;
+}
+.top {
+    background-color: #04293A;
+    font-family: 'Sacramento', cursive;
+    font-weight: 100;
+    font-size: 50px;
+    position: relative;
+    padding-top: 180px;
+    color: #ECB365;
+}
+.position {
+    color: #ECB365;
+}
+.intro {
+    width: 30%;
+    margin: 25px auto 0 auto;
+}
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 25px;
+    color: #04293A;
+    padding-bottom: 10px;
+}
+h3 {
+    font-family: 'DM Sans', sans-serif;
+    color: #04293A;
+}
+p {
+    color: #19282F
+}
+hr {
+    border: dotted grey 6px;
+    border-bottom: none;
+    width: 60px;
+    margin: 0 auto 0 auto;
+}
+.profile {
+    margin-top: 25px;
+    line-height: 25px;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+.top-cloud {
+    position: absolute;
+    right: 400px;
+    top: 70px;
+}
+.middle-container {
+    margin: 100px 0;
+}
+.hello {
+    margin-top: 50px;
+}
+.skills {
+    margin-top: 80px;
+    font-size: 18px;
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.bottom-cloud {
+    position: absolute;
+    right: 930px;
+    top: 350px;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    line-height: 60px;
+    margin: 25px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+a:hover {
+    color: #ECB365 ;
+}
+.skill {
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+}
+.chillie {
+    width: 25%;
+    float: right;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+.contact-me {
+    margin-top: 60px;
+    line-height: 2;
+}
+.contact-message {
+    width: 25%;
+    margin: 20px auto 50px auto;
+}
+.btn {
+    -webkit-border-radius: 27;
+    -moz-border-radius: 27;
+    border-radius: 27px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #04293A;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #ECB365;
+    color: #041C32;
+    text-decoration: none;
+  }
+  .bottom-container {
+      background-color: #041C32;
+  }
+  .copyright {
+      color: white;
+      padding: 15px;
+      font-size: 14px;
+  }
